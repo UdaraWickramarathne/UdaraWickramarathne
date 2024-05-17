@@ -1,4 +1,4 @@
-## Well, hello there 👋
+## Well, Hello there 👋
 
 ### Who am I?
 
@@ -32,4 +32,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ### Wanna learn from me?
 
 
+
 ### Wanna sponsor me?
+ 
+ Buy me a coffe!
