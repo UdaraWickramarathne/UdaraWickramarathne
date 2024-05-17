@@ -25,10 +25,9 @@ I'm a tech enthusiast who would like to explore new technologies, not just progr
 
 ### Wanna get something done?
 
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/fiverr.png" height="20"/>&nbsp; [fiverr](https://www.fiverr.com/users/gnomezgrave)
 
 
 ### Wanna learn from me?
-* <img src="https://praneeth.gnomezgrave.com/assets/img/icons/udemy.png" height="20"/>&nbsp; [Udemy](https://www.udemy.com/user/praneeth-peiris/)
+
 
 ### Wanna sponsor me?
