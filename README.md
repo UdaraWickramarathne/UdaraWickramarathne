@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-I'm a tech enthusiast who would like to explore new technologies, not just programming languages but also devices.
+I'm a passionate software developer with a love for coding and problem-solving. Over the years, I've honed my skills in various programming languages and technologies, and I'm always eager to learn more and take on new challenges.
 
 ### My stats
 
