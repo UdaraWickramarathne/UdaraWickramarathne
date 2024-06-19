@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Universe! 🌟
 
-![Welcome Banner](welcome-banner.jpg) <!-- Add your banner image link here -->
+![Welcome Banner](welcome-banner.jpg)
 
 ## Hi there, I'm Udara Wickramarthne! 👋
 
@@ -19,28 +19,32 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ### My Tech Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
 
 ### What I'm Currently Working On
 
-- 🔭 **[Project Name](https://github.com/yourusername/project-name)**: A brief description of the project and what makes it exciting.
-- 🌱 Learning and experimenting with [Technology/Framework].
+- 🌱 Learning and experimenting.
 - 🎯 Open to collaborations on innovative and impactful projects.
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdaraWickramarathne&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraWickramarathne&layout=compact&theme=radical)
 
 ### Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/udara-wickramarathne1/)
-[![Twitter](https://x.com/BimsaraUdara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udara-wickramarathne1/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCB9xpGxSuCMHPM-bQNCIrFQ)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bimsara.udara/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/udara.xx/)
 
 ### Fun Facts
 
@@ -52,7 +56,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ### Let's Create Something Amazing Together! 🚀
 
-Feel free to explore my repositories, open issues, or reach out if you'd like to collaborate on exciting projects. Let's push the boundaries of technology and innovation together!
+Feel free to explore my repositories, and open issues, or reach out if you'd like to collaborate on exciting projects. Let's push the boundaries of technology and innovation together!
 
 ![Footer Image](https://example.com/your-footer-image.jpg) <!-- Add your footer image link here -->
 
