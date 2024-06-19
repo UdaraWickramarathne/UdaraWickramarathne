@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Universe! 🌟
 
-![Welcome Banner](https://media.licdn.com/dms/image/D5616AQEnES6difoqrA/profile-displaybackgroundimage-shrink_350_1400/0/1694696296345?e=1724284800&v=beta&t=O1oGIMfrsHVnzSFp5GbH49gjGBLxDXpLOJVAuGPglSA) <!-- Add your banner image link here -->
+![Welcome Banner](welcome-banner.jpg) <!-- Add your banner image link here -->
 
 ## Hi there, I'm Udara Wickramarthne! 👋
 
