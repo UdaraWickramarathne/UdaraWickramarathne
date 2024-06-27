@@ -58,5 +58,4 @@ I'm a passionate software developer with a love for creating innovative solution
 
 Feel free to explore my repositories, and open issues, or reach out if you'd like to collaborate on exciting projects. Let's push the boundaries of technology and innovation together!
 
-![Footer Image](https://example.com/your-footer-image.jpg) <!-- Add your footer image link here -->
-
+<!-- ![Footer Image](https://example.com/your-footer-image.jpg) --> 
