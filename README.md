@@ -28,8 +28,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ### What I'm Currently Working On
 
-- 🔭 **[Project Name](https://github.com/yourusername/project-name)**: A brief description of the project and what makes it exciting.
-- 🌱 Learning and experimenting with [Technology/Framework].
+- 🌱 Learning and experimenting with MERN.
 - 🎯 Open to collaborations on innovative and impactful projects.
 
 ### My GitHub Stats
