@@ -10,18 +10,31 @@
 
 ### About Me
 
-const profile = {
-  passion: "software development",
-  focus: [
-    "Building scalable applications 🛠️",
-    "Web development 🌐",
-    "AI & Machine Learning 🤖",
-    "Designing user-centric interfaces 🎨"
-  ],
-  traits: ["curious", "creative", "relentless learner"]
-};
+public class Profile {
 
-console.log(profile);
+    public static void main(String[] args) {
+    
+        String passion = "software development";
+        String[] focus = {
+            "Building scalable applications 🛠️",
+            "Web development 🌐",
+            "AI & Machine Learning 🤖",
+            "Designing user-centric interfaces 🎨"
+        };
+        
+        String[] traits = {"curious", "creative", "relentless learner"};
+
+        System.out.println("Passion: " + passion);
+        System.out.println("Focus Areas:");
+        for (String area : focus) {
+            System.out.println("- " + area);
+        }
+        System.out.println("Traits:");
+        for (String trait : traits) {
+            System.out.println("- " + trait);
+        }
+    }
+}
 
 
 ### My Tech Toolbox
