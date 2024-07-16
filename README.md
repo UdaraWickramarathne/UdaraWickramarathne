@@ -10,12 +10,19 @@
 
 ### About Me
 
-I'm a passionate software developer with a love for creating innovative solutions and exploring the latest in technology. My journey in the tech world is fueled by curiosity, creativity, and a relentless desire to learn and grow. Here's a bit about what I do:
+const profile = {
+  passion: "software development",
+  focus: [
+    "Building scalable applications 🛠️",
+    "Web development 🌐",
+    "AI & Machine Learning 🤖",
+    "Designing user-centric interfaces 🎨"
+  ],
+  traits: ["curious", "creative", "relentless learner"]
+};
 
-- 🛠️ Building robust applications with a focus on scalability and performance.
-- 🌐 Diving deep into web development, from front-end magic to back-end logic.
-- 🤖 Exploring the realms of AI and machine learning.
-- 🎨 Designing user-centric interfaces with an eye for detail.
+console.log(profile);
+
 
 ### My Tech Toolbox
 
@@ -52,7 +59,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ### Fun Facts
 
 - 🎮 I love playing video games in my free time.
-- 📚 Avid reader of tech blogs and sci-fi novels.
+- 📚 Avoid reader of tech blogs and sci-fi novels.
 - 🌍 Always on the lookout for my next travel adventure.
 
 ---
