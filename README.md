@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Udara Wickramarthne! 👋
 
-### 💻 Software Developer | 🚀 Tech Enthusiast | 🎨 Creative Thinker
+### 💻 Software Developer | 🚀 Tech Enthusiast | 🎨 Creative Thinker | 🎮 Gamer
 
 ---
 
