@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Universe! 🌟
 
-![Welcome Banner](https://media.licdn.com/dms/image/D5616AQEnES6difoqrA/profile-displaybackgroundimage-shrink_350_1400/0/1694696296345?e=1724284800&v=beta&t=O1oGIMfrsHVnzSFp5GbH49gjGBLxDXpLOJVAuGPglSA) <!-- Add your banner image link here -->
-
+<!--![Welcome Banner](https://media.licdn.com/dms/image/D5616AQEnES6difoqrA/profile-displaybackgroundimage-shrink_350_1400/0/1694696296345?e=1724284800&v=beta&t=O1oGIMfrsHVnzSFp5GbH49gjGBLxDXpLOJVAuGPglSA) <!-- Add your banner image link here -->
+![Welcome banner](https://i.imgur.com/1QpuHTJ.gif)
 ## Hi there, I'm Udara Wickramarthne! 👋
 
 ### 💻 Software Developer | 🚀 Tech Enthusiast | 🎨 Creative Thinker | 🎮 Gamer
