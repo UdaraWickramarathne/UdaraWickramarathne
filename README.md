@@ -1,8 +1,12 @@
-# 🌟 Welcome to My GitHub Universe! 🌟
+# Welcome to My GitHub Universe! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="32" height="32"></picture>
+  
+ 
+
 
 <!--![Welcome Banner](https://media.licdn.com/dms/image/D5616AQEnES6difoqrA/profile-displaybackgroundimage-shrink_350_1400/0/1694696296345?e=1724284800&v=beta&t=O1oGIMfrsHVnzSFp5GbH49gjGBLxDXpLOJVAuGPglSA) <!-- Add your banner image link here -->
-![Welcome banner](https://i.imgur.com/1QpuHTJ.gif)
-## Hi there, I'm Udara Wickramarthne! 👋
+<img src="https://i.imgur.com/1QpuHTJ.gif" alt="Demo GIF" style="width:100vw;">
+
+## Hi there, I'm Udara Wickramarthne! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>
 
 ### 💻 Software Developer | 🚀 Tech Enthusiast | 🎨 Creative Thinker | 🎮 Gamer
 
