@@ -12,6 +12,10 @@
 
 ---
 
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=UdaraWickramarathne&theme=dark&border_radius=5&card_width=350" alt="GitHub Streak" />
+</a>
+
 ### About Me
 
 public class Profile {
