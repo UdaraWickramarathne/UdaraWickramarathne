@@ -4,17 +4,13 @@
 
 
 <!--![Welcome Banner](https://media.licdn.com/dms/image/D5616AQEnES6difoqrA/profile-displaybackgroundimage-shrink_350_1400/0/1694696296345?e=1724284800&v=beta&t=O1oGIMfrsHVnzSFp5GbH49gjGBLxDXpLOJVAuGPglSA) <!-- Add your banner image link here -->
-<img src="https://i.imgur.com/1QpuHTJ.gif" alt="Demo GIF" style="width:100vw;">
+<img src="https://aaxjdkgyiasvrscexksn.supabase.co/storage/v1/object/public/devx-publics//my-bio.gif" alt="Demo GIF" style="width:100vw;">
 
 ## Hi there, I'm Udara Wickramarthne! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>
 
 ### 💻 Software Developer | 🚀 Tech Enthusiast | 🎨 Creative Thinker | 🎮 Gamer
 
 ---
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=UdaraWickramarathne&theme=dark&border_radius=5&card_width=350" alt="GitHub Streak" />
-</a>
 
 ### About Me
 
@@ -45,31 +41,44 @@ public class Profile {
 }
 
 
-### My Tech Toolbox
+## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) -->
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UdaraWickramarathne&show_icons=true&theme=merko" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraWickramarathne&layout=compact&theme=merko" alt="Top Languages" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=UdaraWickramarathne&theme=merko" alt="GitHub Streak" /> -->
+</div>
+<img src="https://komarev.com/ghpvc/?username=UdaraWickramarathne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 ### What I'm Currently Working On
 
 - 🌱 Learning and experimenting with MERN.
 - 🎯 Open to collaborations on innovative and impactful projects.
 
-### My GitHub Stats
-<img src="https://komarev.com/ghpvc/?username=UdaraWickramarathne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=udarawickramarathne&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udarawickramarathne&layout=compact&theme=radical)
 
 ### Connect With Me
 
