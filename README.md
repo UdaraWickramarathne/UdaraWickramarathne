@@ -14,6 +14,8 @@
 
 ### About Me
 
+I am a second-year BSc (Hons) in Software Engineering student at the National Institute of Business Management (NIBM), driven by a passion for creating innovative and practical software solutions, especially in backend development and DevOps. I am actively seeking internship opportunities to apply my skills, collaborate with dynamic teams, and gain hands-on experience in real-world software development environments. I am eager to learn from experienced professionals and contribute to meaningful projects while developing my technical expertise.
+
 public class Profile {
 
     public static void main(String[] args) {
