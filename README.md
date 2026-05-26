@@ -1,103 +1,146 @@
-# Welcome to My GitHub Universe! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="32" height="32"></picture>
-  
- 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:006D32&height=220&section=header&text=Udara%20Wickramarathne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20%40%20WSO2%20%E2%80%A2%20Backend%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-<!--![Welcome Banner](https://media.licdn.com/dms/image/D5616AQEnES6difoqrA/profile-displaybackgroundimage-shrink_350_1400/0/1694696296345?e=1724284800&v=beta&t=O1oGIMfrsHVnzSFp5GbH49gjGBLxDXpLOJVAuGPglSA) <!-- Add your banner image link here -->
-<img src="https://aaxjdkgyiasvrscexksn.supabase.co/storage/v1/object/public/devx-publics//my-bio.gif" alt="Demo GIF" style="width:100vw;">
+<a href="https://github.com/UdaraWickramarathne">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Udara+%F0%9F%91%8B;Software+Engineering+Intern+%40+WSO2;Backend+%26+DevOps+Enthusiast;AI+%26+Machine+Learning+Explorer;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
 
-## Hi there, I'm Udara Wickramarthne! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>
+<br/>
 
-### 💻 Software Developer | 🚀 Tech Enthusiast | 🎨 Creative Thinker | 🎮 Gamer
+<a href="https://www.linkedin.com/in/udara-wickramarathne/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/BimsaraUdara">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="mailto:bimsaraudara25@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=UdaraWickramarathne&label=Profile%20views&color=39d353&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 ---
 
-### About Me
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" alt="🧑‍💻" width="28" height="28"></picture> About Me
 
-I am a second-year BSc (Hons) in Software Engineering student at the National Institute of Business Management (NIBM), driven by a passion for creating innovative and practical software solutions, especially in backend development and DevOps. I am actively seeking internship opportunities to apply my skills, collaborate with dynamic teams, and gain hands-on experience in real-world software development environments. I am eager to learn from experienced professionals and contribute to meaningful projects while developing my technical expertise.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-public class Profile {
+```yaml
+udara:
+  role:     Software Engineering Intern
+  company:  WSO2
+  degree:   BSc (Hons) Computing @ NIBM
+  location: Sri Lanka 🇱🇰
+  focus:
+    - Backend Development
+    - DevOps & Cloud Native
+    - AI / Machine Learning
+  currently_learning:
+    - MERN Stack
+    - Kubernetes
+  fueled_by: ☕ + 🎮 + curiosity
+  status:   building things that matter
+```
 
-    public static void main(String[] args) {
-    
-        String passion = "software development";
-        String[] focus = {
-            "Building scalable applications 🛠️",
-            "Web development 🌐",
-            "AI & Machine Learning 🤖",
-            "Designing user-centric interfaces 🎨"
-        };
-        
-        String[] traits = {"curious", "creative", "relentless learner"};
+</td>
+<td width="45%" valign="top">
 
-        System.out.println("Passion: " + passion);
-        System.out.println("Focus Areas:");
-        for (String area : focus) {
-            System.out.println("- " + area);
-        }
-        System.out.println("Traits:");
-        for (String trait : traits) {
-            System.out.println("- " + trait);
-        }
-    }
-}
+###### 🎯 The TL;DR
 
+A backend-leaning engineer who treats every project like a puzzle worth solving.
 
-## 💻 Tech Stack
+By day, I'm crafting enterprise-grade systems at **[WSO2](https://wso2.com/)** as a Software Engineering Intern. By night, I'm an undergraduate chasing my **BSc (Hons) Computing** at **NIBM** — and somewhere in between, I'm shipping side projects, breaking things to learn how they work, and trying to make the web a little less buggy.
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+I believe great software is equal parts **engineering** and **empathy**. Let's build something that lasts.
 
-### Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+---
 
-## 📊 GitHub Stats
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠️" width="28" height="28"></picture> Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdaraWickramarathne&show_icons=true&theme=merko" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraWickramarathne&layout=compact&theme=merko" alt="Top Languages" />
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,php,c,js,ts,dart,html,css,bash" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,flutter,tailwind" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,git,github,githubactions,docker,linux,vscode,idea,postman,figma" />
+</p>
+
 </div>
-<img src="https://komarev.com/ghpvc/?username=UdaraWickramarathne&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-### What I'm Currently Working On
-
-- 🌱 Learning and experimenting with MERN.
-- 🎯 Open to collaborations on innovative and impactful projects.
-
-
-### Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udara-wickramarathne/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BimsaraUdara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bimsaraudara25@gmail..com)
-
-### Fun Facts
-
-- 🎮 I love playing video games in my free time.
-- 📚 Avoid reader of tech blogs and sci-fi novels.
-- 🌍 Always on the lookout for my next travel adventure.
 
 ---
 
-### Let's Create Something Amazing Together! 🚀
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="28" height="28"></picture> GitHub Stats
 
-Feel free to explore my repositories, and open issues, or reach out if you'd like to collaborate on exciting projects. Let's push the boundaries of technology and innovation together!
+<div align="center">
 
-<!--![Footer Image](https://example.com/your-footer-image.jpg)  Add your footer image link here -->
+<a href="https://github.com/UdaraWickramarathne">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=UdaraWickramarathne&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=39D353&icon_color=39D353&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaraWickramarathne&layout=compact&langs_count=8&hide_border=true&title_color=39D353&text_color=C9D1D9&bg_color=0D1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=UdaraWickramarathne&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/UdaraWickramarathne">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UdaraWickramarathne&bg_color=0D1117&color=39D353&line=39D353&point=C9D1D9&area=true&area_color=39D353&hide_border=true" width="98%" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=UdaraWickramarathne&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+</a>
+
+</div>
+
+---
+
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" height="28"></picture> What I'm Up To
+
+- 💼 Working as a **Software Engineering Intern @ WSO2** — gaining hands-on experience with enterprise-grade systems
+- 🌱 Currently learning and experimenting with the **MERN stack**
+- 🔭 Sharpening my skills in **Spring Boot**, **Docker**, and **CI/CD pipelines**
+- 🤝 Open to collaborations on innovative and impactful projects
+- 💬 Ask me about **Java**, **backend architecture**, or **DevOps workflows**
+
+---
+
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.gif" alt="🎮" width="28" height="28"></picture> Beyond the Code
+
+- 🎮 Gaming is my favorite way to unwind
+- 📚 Avid reader of tech blogs and sci-fi novels
+- 🌍 Always planning the next travel adventure
+
+---
+
+<div align="center">
+
+### ✨ Let's Build Something Amazing Together ✨
+
+Feel free to explore my repositories, open issues, or reach out for collaborations.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:006D32,100:39D353&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
