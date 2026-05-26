@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:006D32&height=220&section=header&text=Udara%20Wickramarathne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20%40%20WSO2%20%E2%80%A2%20Backend%20%26%20DevOps%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,100:006D32&height=220&section=header&text=Udara%20Wickramarathne&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Intern%20%40%20WSO2%20%E2%80%A2%20Backend%20and%20DevOps%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/UdaraWickramarathne">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Udara+%F0%9F%91%8B;Software+Engineering+Intern+%40+WSO2;Backend+%26+DevOps+Enthusiast;AI+%26+Machine+Learning+Explorer;Always+learning%2C+always+building." alt="Typing SVG" />
@@ -23,7 +23,7 @@
 
 ---
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" alt="🧑‍💻" width="28" height="28"></picture> About Me
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" alt="💻" width="28" height="28"></picture> About Me
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ I believe great software is equal parts **engineering** and **empathy**. Let's b
 
 ---
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3ae/512.gif" alt="🎮" width="28" height="28"></picture> Beyond the Code
+## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="28" height="28"></picture> Beyond the Code
 
 - 🎮 Gaming is my favorite way to unwind
 - 📚 Avid reader of tech blogs and sci-fi novels
