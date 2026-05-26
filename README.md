@@ -40,7 +40,7 @@ udara:
     - DevOps & Cloud Native
     - AI / Machine Learning
   currently_learning:
-    - MERN Stack
+    - Context Engineering
     - Kubernetes
   fueled_by: ☕ + 🎮 + curiosity
   status:   building things that matter
