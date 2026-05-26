@@ -120,7 +120,7 @@ I believe great software is equal parts **engineering** and **empathy**. Let's b
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" height="28"></picture> What I'm Up To
 
 - 💼 Working as a **Software Engineering Intern @ WSO2** — gaining hands-on experience with enterprise-grade systems
-- 🌱 Currently learning and experimenting with the **MERN stack**
+- 🌱 Currently learning and experimenting with the **Context Engineering**
 - 🔭 Sharpening my skills in **Spring Boot**, **Docker**, and **CI/CD pipelines**
 - 🤝 Open to collaborations on innovative and impactful projects
 - 💬 Ask me about **Java**, **backend architecture**, or **DevOps workflows**
