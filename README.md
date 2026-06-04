@@ -33,7 +33,7 @@
 udara:
   role:     Software Engineering Intern
   company:  WSO2
-  degree:   BSc (Hons) Computing @ NIBM
+  degree:   BSc (Hons) Computing @ Coventry University
   location: Sri Lanka 🇱🇰
   focus:
     - Backend Development
